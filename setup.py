@@ -14,8 +14,8 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     python_requires='>=3.7',
-    url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams",
-    download_url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams/lucid-sonic-dreams.tar.gz",
+    url="https://github.com/xHUBLiquidityBridge/lucid-sonic-dreams-original.git",
+   # download_url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams/lucid-sonic-dreams.tar.gz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
